@@ -1,0 +1,6 @@
+{
+  "name": "ColdRescue AI",
+  "description": "Autonomous multi-agent cold-chain preservation and perishable food salvage platform powered by Google Cloud Pub/Sub, BigQuery GIS, Dataplex, and Gemini 3.7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
